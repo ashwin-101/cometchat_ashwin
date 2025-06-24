@@ -200,7 +200,7 @@ const Input = styled.input`
 const EmailIcon = styled.span`
   position: absolute;
   left: 1rem;
-  top: 50%;
+  top: 65%;
   transform: translateY(-50%);
   color: #bdbdbd;
   font-size: 1.2rem;
