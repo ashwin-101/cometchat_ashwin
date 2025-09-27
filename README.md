@@ -52,9 +52,11 @@ Follow these steps to run the project locally.
 Install dependencies
 
 npm install
+
 Start the development server
 
 npm start
+
 The app will be available at http://localhost:3000.
 
 📦 Scripts
