@@ -20,7 +20,7 @@ This project leverages the power of [CometChat](https://www.cometchat.com/) to p
 ## 🖼️ Preview  
 
 
-![App Preview]
+
 <img width="1889" height="894" alt="image" src="https://github.com/user-attachments/assets/b230acd2-444b-4809-8636-ffb758f27050" />
 
 
